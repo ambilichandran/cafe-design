@@ -1,0 +1,233 @@
+.navbar
+{
+    background-color: black;
+    display: flex;
+    height: 80px;
+    width: 100%;
+}
+.heading > h1
+{
+    display: inline;
+
+}
+.heading > h1
+{
+    color: rgb(254, 249, 243);
+}
+.navbar > ul 
+{
+    display: flex;
+    margin-left: 100px;
+    color:rgb(202, 159, 65);
+}
+.navbar > ul > li
+{
+    margin-left: 100px;
+    list-style: none;
+    text-decoration: none;
+}
+.navbar > ul > li > a
+{
+    color: rgb(202, 159, 65);
+    text-decoration: none;
+}
+.login > button
+{
+    background-color: rgb(175, 25, 25);
+    color: white;
+    height: 30px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.image
+{
+    margin-left: 150px;
+    padding-top: 50px;
+}
+.content > p
+{
+    font-size: 20px;
+    width: 450px;
+    height: 100px;
+    margin-left: 45px;
+}
+.tab > button
+{
+    background-color: rgb(202, 159, 65);
+    padding: 10px;
+    margin-top: 90px;
+    margin-left: 50px;
+}
+.arrow
+{
+    display: flex;
+    color: white;
+    margin-top: 40px;
+    margin-left: 160px;
+}
+.footer
+{
+    background-color: rgb(26, 26, 31);
+    color: white;
+    margin-top: -30px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.footer > p
+{
+    width: 950px;
+    margin-left: 200px;
+}
+.icons > ul 
+{
+    display: flex;
+    list-style: none;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+.icons > ul > li
+{
+    margin-left: 50px;
+}
+.footerend
+{
+    font-size:12px;
+    padding-bottom: 5px;
+}
+.head > h1
+{
+    color: white;
+    font-size: 80px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.head > hr
+{
+    width: 200px;
+}
+.image2
+{
+    border-color: white;
+    margin-left: 50px;
+}
+.para
+{
+    color: white;
+    width:500px;
+    margin-left: 100px;
+    margin-top: -20px;
+}
+.content1
+{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 150px;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centered > h1
+  {
+    margin-top: -130px;
+    font-size: 60px;
+    font-family: robot-black;
+    color: rgb(255, 250, 245);
+  } 
+  .content2
+  {
+    background-color: black;
+  }
+  .head2
+  {
+    color: rgb(241, 231, 217);
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 50px;
+  }
+  .row1
+  {
+    display: flex;
+    color: white;
+    justify-content: space-between;
+  }
+  .row2
+  {
+    color: white;
+    display: flex;
+  }
+  .menu4
+  {
+    margin-left: 280px;
+  }
+  .menu4 > img
+  {
+    border: white solid;
+    margin-left: 10px;
+  }
+  .menu5
+  {
+    margin-left: 300px;
+  }
+  .menu6
+  {
+    color: white;
+    margin-left:570px;
+    margin-bottom: 40px;
+  }
+  .menu5 > img
+  {
+    border: white solid;
+    margin-right: 20px;
+  }
+  .menu6 > img
+  {
+    border: white solid;
+    
+  }
+  .menu1 > img
+  {
+    border: white solid;
+    margin-left: 20px;
+  }
+  .menu2 > img
+  {
+    border: white solid;
+  }
+  .menu3 > img
+  {
+    border: white solid;
+    margin-right: 30px;
+  }
+  .icons2
+  {
+    margin-left: 60px;
+    color: rgb(39, 35, 35);
+  }
+  .name
+  {
+    height: 50px;
+  }
+  .number
+  {
+    height: 50px;
+  }
+  .date
+  {
+    height: 50px;
+  }
+  .persons
+  {
+    height: 50px;
+  }
+  .msg
+  {
+    height: 50px;
+  }
+  .booking
+  {
+    height: 450px;
+  }
